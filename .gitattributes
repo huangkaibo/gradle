@@ -1,1 +1,4 @@
+gradle-6.9.4-bin.zip filter=lfs diff=lfs merge=lfs -text
+gradle-7.6.1-bin.zip filter=lfs diff=lfs merge=lfs -text
+gradle-8.0.2-bin.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
